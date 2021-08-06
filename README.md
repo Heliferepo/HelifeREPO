@@ -79,6 +79,8 @@
 
 [![Sparkline](https://stars.medv.io/Heliferepo/badges.svg)](https://stars.medv.io/Heliferepo/badges)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/293802685700767745)](https://discord.com/users/293802685700767745)
+
 Thank you for reading all of this :heart:
 
 ```
